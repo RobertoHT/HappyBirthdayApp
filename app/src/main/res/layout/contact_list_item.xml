@@ -4,8 +4,8 @@
     android:orientation="horizontal"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:layout_marginTop="@dimen/activity_small_padding"
-    android:layout_marginBottom="@dimen/activity_small_padding">
+    android:paddingTop="@dimen/activity_small_padding"
+    android:paddingBottom="@dimen/activity_small_padding">
 
     <ImageView
         android:id="@+id/ivImage"
